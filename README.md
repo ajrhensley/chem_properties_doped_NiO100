@@ -11,6 +11,7 @@ The original research article is by Shuqiao Wang* and Alyssa J.R. Hensley*, and 
 - Jupyter Notebooks for:
   - Ab initio phase diagrams.
 - Post-processed vibrational frequencies, calculated within the harmonic oscillator approximation, in TXT format.
+- Data from DFT calculations for electronic properties (i.e. Bader charges, density of states, electrostatic potential).
 
 ## Contribution Statement
 Contributions to this project were determined using CRediT (Contributor Roles Taxonomy). Here is the contribution statement:
