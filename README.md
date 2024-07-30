@@ -1,0 +1,1 @@
+# chem_properties_doped_NiO100
