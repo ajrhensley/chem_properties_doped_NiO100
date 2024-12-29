@@ -1,5 +1,5 @@
 # Data and Code Repository for Original Research Article Titled: "Dopant Effects on the Environment-Dependent Chemical Properties of NiO(100) Surfaces"
-The original research article is by Shuqiao Wang* and Alyssa J.R. Hensley*, and is under review at _Applied Surface Science_.
+The original research article is by Shuqiao Wang* and Alyssa J.R. Hensley*, and is published in _Applied Surface Science_ (DOI: 10.1016/j.apsusc.2024.161679).
 
 *Department of Chemical Engineering and Materials Science at Stevens Insitute of Technology
 
